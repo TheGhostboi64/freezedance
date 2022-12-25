@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<lines>
+	<line nm="1" fn="r_party">The party is...</line>
+	<line nm="2" fn="r_afterparty">The afterparty is...</line>
+	<line nm="3" fn="r_and">...and...</line>
+	<line nm="4" fn="r_4chinese">Four feet from the Chinese food takeout box...</line>
+	<line nm="5" fn="r_6chinese">Six feet from the Chinese food takeout box...</line>
+	<line nm="6" fn="r_4charlene">Four feet from the photo of Charlene...</line>
+	<line nm="7" fn="r_6charlene">Six feet from the photo of Charlene...</line>
+	<line nm="8" fn="r_4mug">Four feet from the coffee mug...</line>
+	<line nm="9" fn="r_7mug">Seven feet from the coffee mug...</line>
+	<line nm="10" fn="r_5shoe">Five feet from the shoe...</line>
+	<line nm="11" fn="r_6shoe">Six feet from the shoe...</line>
+	<line nm="12" fn="r_5piggy">Five feet from the piggybank...</line>
+	<line nm="13" fn="r_7piggy">Seven feet from the piggybank...</line>
+	<line nm="14" fn="r_5pineapple">Five feet from the pineapple...</line>
+	<line nm="15" fn="r_7pineapple">Seven feet from the pineapple...</line>
+	<line nm="16" fn="r_8fan">...Eight feet from the fan.</line>
+	<line nm="17" fn="r_9fan">...Nine feet from the fan.</line>
+	<line nm="18" fn="r_8grapes">...Eight feet from the grapes.</line>
+	<line nm="19" fn="r_9grapes">...Nine feet from the grapes.</line>
+	<line nm="20" fn="r_8mustard">...Eight feet from the mustard.</line>
+	<line nm="21" fn="r_9mustard">...Nine feet from the mustard.</line>
+	<line nm="22" fn="r_9ducky">...Nine feet from the rubber ducky.</line>
+	<line nm="23" fn="r_10ducky">...Ten feet from the rubber ducky.</line>
+	<line nm="24" fn="r_9cheeseburger">...Nine feet from the cheeseburger.</line>
+	<line nm="25" fn="r_10cheeseburger">...Ten feet from the cheeseburger.</line>
+	<line nm="26" fn="r_9baseball">...Nine feet from the baseball.</line>
+	<line nm="27" fn="r_10baseball">...Ten feet from the baseball.</line>
+	<line nm="28" fn="r_help">...and we'll need YOUR help to get to the party in time!</line>
+	<line nm="29" fn="f_note">So, let us see what this note says.</line>
+	<line nm="30" fn="f_party">The 
+		<!-- Ʊ Ѭ 電 --> party is...
+	</line>
+	<line nm="31" fn="f_and">...and...</line>
+	<line nm="32" fn="f_4chinese">Four feet from the Chinese food takeout box...</line>
+	<line nm="33" fn="f_6chinese">Six feet from the Chinese food takeout box...</line>
+	<line nm="34" fn="f_4charlene">Four feet from the photo of Charlene...</line>
+	<line nm="35" fn="f_6charlene">Six feet from the photo of Charlene...</line>
+	<line nm="36" fn="f_4mug">Four feet from the coffee mug...</line>
+	<line nm="37" fn="f_7mug">Seven feet from the coffee mug...</line>
+	<line nm="38" fn="f_5shoe">Five feet from the shoe...</line>
+	<line nm="39" fn="f_6shoe">Six feet from the shoe...</line>
+	<line nm="40" fn="f_5piggy">Five feet from the piggybank...</line>
+	<line nm="41" fn="f_7piggy">Seven feet from the piggybank...</line>
+	<line nm="42" fn="f_5pineapple">Five feet from the pineapple...</line>
+	<line nm="43" fn="f_7pineapple">Seven feet from the pineapple...</line>
+	<line nm="44" fn="f_8fan">...Eight feet from the fan.</line>
+	<line nm="45" fn="f_9fan">...Nine feet from the fan.</line>
+	<line nm="46" fn="f_8grapes">...Eight feet from the grapes.</line>
+	<line nm="47" fn="f_9grapes">...Nine feet from the grapes.</line>
+	<line nm="48" fn="f_8mustard">...Eight feet from the mustard.</line>
+	<line nm="49" fn="f_9mustard">...Nine feet from the mustard.</line>
+	<line nm="50" fn="f_9ducky">...Nine feet from the rubber ducky.</line>
+	<line nm="51" fn="f_10ducky">...Ten feet from the rubber ducky.</line>
+	<line nm="52" fn="f_9cheeseburger">...Nine feet from the cheeseburger.</line>
+	<line nm="53" fn="f_10cheeseburger">...Ten feet from the cheeseburger.</line>
+	<line nm="54" fn="f_9baseball">...Nine feet from the baseball.</line>
+	<line nm="55" fn="f_10baseball">...Ten feet from the baseball.</line>
+	<line nm="56" fn="f_youneed">You need...</line>
+	<line nm="57" fn="f_string4">...the 4-foot string to go with...</line>
+	<line nm="58" fn="f_string5">...the 5-foot string to go with...</line>
+	<line nm="59" fn="f_string6">...the 6-foot string to go with...</line>
+	<line nm="60" fn="f_string7">...the 7-foot string to go with...</line>
+	<line nm="61" fn="f_string8">...the 8-foot string to go with...</line>
+	<line nm="62" fn="f_string9">...the 9-foot string to go with...</line>
+	<line nm="63" fn="f_string10">...the 10-foot string to go with.</line>
+	<line nm="64" fn="f_mug">...the coffee mug.</line>
+	<line nm="65" fn="f_baseball">...the baseball.</line>
+	<line nm="66" fn="f_chinese">...the Chinese food takeout box.</line>
+	<line nm="67" fn="f_charlene">...the photo of Charlene.</line>
+	<line nm="68" fn="f_piggy">...the piggybank.</line>
+	<line nm="69" fn="f_grapes">...the grapes.</line>
+	<line nm="70" fn="f_fan">...the fan.</line>
+	<line nm="71" fn="f_pineapple">...the pineapple.</line>
+	<line nm="72" fn="f_mustard">...the mustard.</line>
+	<line nm="73" fn="f_ducky">...the rubber ducky.</line>
+	<line nm="74" fn="f_cheeseburger">...the cheeseburger.</line>
+	<line nm="75" fn="f_shoe">...the shoe.</line>
+	<line nm="76" fn="f_usethree">Use these three objects to find the party.</line>
+	<line nm="77" fn="f_clickstring">First, click on CHOOSE A STRING at the top.</line>
+	<line nm="78" fn="f_clicknumber">Click on a number to pick up a string.</line>
+	<line nm="79" fn="f_attachstring">Now attach the string to [the item].</line>
+	<line nm="80" fn="f_correct">That is correct!</line>
+	<line nm="81" fn="f_right">That is right!</line>
+	<line nm="82" fn="f_gotit">You got it!</line>
+	<line nm="83" fn="f_thatsit">That's it!</line>
+	<line nm="84" fn="f_fantastic">Fantastic!</line>
+	<line nm="85" fn="f_oops">Oops!</line>
+	<line nm="86" fn="f_uhoh">Uh-oh!</line>
+	<line nm="87" fn="f_notright">That is not right.</line>
+	<line nm="88" fn="f_notcorrect">That is not correct.</line>
+	<line nm="89" fn="f_tryagain">Try again.</line>
+	<line nm="90" fn="f_remember">Remember, you need... [the #-foot string to go with] [the item].</line>
+	<line nm="91" fn="f_nowstretch">Now stretch the string all the way out.</line>
+	<line nm="92" fn="f_nowdraw">Now draw a circle.</line>
+	<line nm="93" fn="f_nowcirclearound">Now draw a circle around... [the item].</line>
+	<line nm="94" fn="f_keepstretched">You have to keep the string stretched out while you're drawing.</line>
+	<line nm="95" fn="f_notmouse">Note that you do NOT need to click the mouse.</line>
+	<line nm="96" fn="f_pickanother">Now pick another string.</line>
+	<line nm="97" fn="f_finishedcircle">When you've finished drawing your circle, choose another string.</line>
+	<line nm="98" fn="f_fourspots">These are the four spots where the circles cross.</line>
+	<line nm="99" fn="f_clickonespot">Click on the ONE spot where all THREE circles cross.</line>
+	<line nm="100" fn="f_letsgo">That's it! Let's go!</line>
+	<line nm="101" fn="f_drawcircles">Use the strings to draw circles around the three items mentioned in the invitation.</line>
+	<line nm="102" fn="f_userightstring">Make sure to use the correct length string for each item.</line>
+	<line nm="103" fn="f_clickspot">Then click on the spot where all three circles cross.</line>
+	<line nm="104" fn="r_bethere">Chet's Freeze Dance Party. 8:00 to 9:00 TONIGHT. Be there!</line>
+	<line nm="105" fn="r_afterpartynow">Missed my party? Come to the afterparty NOW!</line>
+</lines>
